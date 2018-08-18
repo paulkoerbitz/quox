@@ -1,0 +1,26 @@
+{
+  "name": "quox",
+  "version": "0.0.1",
+  "description": "The power of redux with the convenience of mobx",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulkoerbitz/quox.git"
+  },
+  "keywords": [
+    "redux",
+    "mobx",
+    "typescript",
+    "typesafe",
+    "boilerplate"
+  ],
+  "author": "Paul Koerbitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulkoerbitz/quox/issues"
+  },
+  "homepage": "https://github.com/paulkoerbitz/quox#readme"
+}
